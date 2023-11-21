@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Gonzales",
+  "age": 45,
+  "address": {
+    "street": "Tinok Extension",
+    "city": "Urtuca",
+    "state": "AK",
+    "zip": "33251"
+  },
+  "contact": {
+    "phone": "(245) 229-7001",
+    "servicePhone": "800415513"
+  },
+  "birthday": "1986-09-20T11:05:32.196Z",
+  "ip": "177.96.157.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Muckoiz vicmuze rukad cejukunu gudni sobaosa umzibra jabuzkag as zorworpot ne cic si. Dubher gotjeok batagra jernajzu oj za zozsonat idweuno wuktar rokeap kujowmo sapjodoc ropim. Adiwaviko zikojo fejael bolneani cefujiwi ko dizhauw re sas imiucgu obe ka cabap kawra eznujciv lefrezhi. Kinkubde ba rofed vam origo hepgi naf keg jarer roz ja mih. Netip toud dulcouga izmurun jos toabu adpalob dekza ate zawbuun bij his midzu ze baj. Fizovnak aj babotik luj rep sedivmoc jiscamga bewazin giw je beke colol li boknin edokubaf luabub.",
+    "bio": "Tufujasu cejosfit diuhabi ser geh sincad ge guj ofu juvnezej doizej hoazaliv ga sadvire takfu mihinani sewac oddiz. Ofifa gel zikappoc meh ri ke hikvocuj ci tuhjemi zebgurap zuhuw hu cag gafubfof tafgoogu. Ozuevugib wadezko rog tidfo vumbokki fuizoez gucretsew vowrecsek udlugbi ebu jidabwus vibtag lal iw. Digij calsafdi iramar tasedhub ijego ibecomvu tos cumowjet jeece zef inuug tunsul el pa sadlora lazsif rintunda. Ededu fazav jebur ofo usa ej caj miseti dis jumkul lor asealipi uriju ga sal uneri munfen nel. Capezruw zideg pizerat fu noclo wodjeg huj tazo dakir jinnu kenapwe ber jej jaorbuv vavjamu liwo."
+  },
+  "apiKey": "3c2c9249a30e7ec41fa54ac2f7c8b2d78f67df4f251dec0bbc36eaa32c15f255",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
