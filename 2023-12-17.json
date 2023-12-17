@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Cohen",
+  "age": 31,
+  "address": {
+    "street": "Ramaw View",
+    "city": "Sojjobo",
+    "state": "OR",
+    "zip": "89348"
+  },
+  "contact": {
+    "phone": "(728) 825-6708",
+    "servicePhone": "800565755"
+  },
+  "birthday": "1999-04-03T20:36:27.061Z",
+  "ip": "236.22.140.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Zihap pevrudta mat gowem nigenu fusus mu abowut wiibu nilarev gahpe accurna ubaog ga pug ijicuoj to. Viejo veb uku famova monic iddafse kacomcu kelohor emeanto caferu nar pu jo. Su fonra pi omamu vaz fehagda divzok ocefol cuv lumgu jutonle on gakag liaspu.",
+    "bio": "Beckum ud naegecen rohos picjuvefi cafucu nag ijaviuma ad fenri izoci dooludun num ele. Ejga me wazu izezizo tiwuzivo tahu on wokiho onor waceku soju rewut baf vo polenma egi ag. Sadsodgot tolzido mof zoje duh idegidli denogos wujemfek iwhal kiog okiho butesec. Gitdudiw bitesocu ja siwaam elimu lolza idmosuk kumeluha lunbow ri sew ukejawtur. Siedfad novo nikvotwu wop suez berlulan ekowacono fof tepsuiku elbuzehi ro vovi korela pawa dagag."
+  },
+  "apiKey": "33c6db717854607789521189a00c99582bb07c20fc4b1ec56079404e63a9da1c",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
