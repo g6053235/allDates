@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Curry",
+  "age": 46,
+  "address": {
+    "street": "Tevnel Place",
+    "city": "Dorevsop",
+    "state": "MO",
+    "zip": "05953"
+  },
+  "contact": {
+    "phone": "(503) 696-8708",
+    "servicePhone": "800698143"
+  },
+  "birthday": "1968-07-14T20:30:54.977Z",
+  "ip": "207.117.187.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Eknaem si nebifre li halip apiwel toroc wufu recgih ebaijiori miivecaz ob suci. Semwiru ofo inidopa lew ejalowah ede jud ban ogubublog nefcepel rev por ojti dawotuv. Leaneajo wef imu sinhu mimzus vev effuzi sokvovme tiwuv tiffoas ve jedednin pitge ozjikce runere noszik.",
+    "bio": "Le ri cijcamci sev nu koturwi cadoju jeltot ge be nebrob wuwcoj gu zi fumcevinu lelvawe luk hufoc. Hijro de vo noh tazudohad veemuvad oti nirdahal coboumi upu lelap da raggavari onehu pahitnu no ataje. Vanlu in ninnizvu walupu jubgar vepuc amhim tofubfa guw tibanmab ajobirnu sor coavvic cewno va hafifwim da. Utufusiw visut diccepeju di wa hocne udoworhu juk kuzaza helap pozipi he givna uce. Fac newin nosujtu so firaeb imacim wimbu mibahali fultavu owawaza gov reh ujni gosemuv lulov agcu noawdi. Ese ohazadrir rasebo ocogo filotsir vaw ignavid hikos rezle oja hokuhamo ug piguro ajiubuico zecne gazmo. Vur nu recsozga ehiba fice bob zucog logikuta va ba geltamevo ofsese roruvor."
+  },
+  "apiKey": "2bd680f1939ed22870f4e50075a41e90494e6752eec721f1ae13f2fbed05333b",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
