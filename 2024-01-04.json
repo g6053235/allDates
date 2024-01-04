@@ -1,0 +1,26 @@
+{
+  "name": "Danny Garcia",
+  "age": 48,
+  "address": {
+    "street": "Onde Boulevard",
+    "city": "Ojjerej",
+    "state": "SD",
+    "zip": "99781"
+  },
+  "contact": {
+    "phone": "(857) 371-3971",
+    "servicePhone": "800165744"
+  },
+  "birthday": "1965-05-31T07:58:26.082Z",
+  "ip": "156.203.185.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu cedfejim maudo se cuwi zingen dera ritafu ucidiipe be tazekho ga. Getek wewog urho jagowto defo faf ko cos agepe sije jawtopat bah rag ogivakoz gahivuju zawo vujef nasutiti. Daj ce ped if ka zefu gejzez veb izvez oha tariaz ebu wefuz.",
+    "bio": "Gosazuf gef ki adoduhmo be ebe le ericosodu pob suh vucevsem dewo. Vonug obabagze gizzirev itgopnuc gonot omuride kivrib hi peipa ik je naapuid wobwod egupoef rebuhe amuzu tuspe kize. Majbe ba tijijag huufoto rabik ma tegocob gatilugel tu ra hajo bumuna azaetmik haimaka adahirbum migawgeb. Lop te popweron vugbah rewzoiz nazacib nuufo ted deja ek emosezfi zolisi."
+  },
+  "apiKey": "3cebadab2e1d004cca0166828346ecf4f5145b4e3db7bd3951568f810ba9e685",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
