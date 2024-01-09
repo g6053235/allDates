@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Barnes",
+  "age": 48,
+  "address": {
+    "street": "Vamo Loop",
+    "city": "Loivsim",
+    "state": "AL",
+    "zip": "67084"
+  },
+  "contact": {
+    "phone": "(386) 747-6187",
+    "servicePhone": "800326979"
+  },
+  "birthday": "1997-05-20T08:13:50.158Z",
+  "ip": "228.191.203.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Ili ekepaf vepa wijpiwi nak lotipo ho kesejalu akiroad nurem enuwatub utob. Ca zij da mofzifaw le lol ge ehwi dujpupu tuprowuv epijulmo go zaptem mukpiuj. Wod jufwil buvigvet ipetizfu cehuhupu inupeh milirud ege weepa kega led fuja agaj unuafozo omlojne pocij.",
+    "bio": "Zada tilijeer ofi huba espos douzva ro bahha unaja diza bickih pe tekeile lahjituk taj occa. Ruhieh cilmu valher udiadooc bacliz hohunho suc ehba hokwauca obtoip mupo jucifun urpec sogbedjub. Adapacor giw fozado dejvi ubwen toege nukes abe metuzus dofetce zipov rumore ikcugalo ra okepuwe evrikan gin."
+  },
+  "apiKey": "446a2993879644986d6cca4c5467e79e0312160a5a6fbbdd9b2ba5ea8705928d",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
