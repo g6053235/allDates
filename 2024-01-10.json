@@ -1,0 +1,26 @@
+{
+  "name": "Mae Barnett",
+  "age": 21,
+  "address": {
+    "street": "Tuto Ridge",
+    "city": "Wepiflo",
+    "state": "CA",
+    "zip": "42081"
+  },
+  "contact": {
+    "phone": "(672) 380-2942",
+    "servicePhone": "800552259"
+  },
+  "birthday": "1964-09-18T00:49:11.274Z",
+  "ip": "234.227.115.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Biliif avgalof favtiri sir dujlozzik iwduv mipimnu haba nocmu gokih mo su hibir keno ra udbeju go jap. Ceire tah jeubu sovsih lugpad upi kek dautuje abihoclef ewu cuzeeb udadurol poap hosonah. Peeji tu weggu cug riha jecgep zowe pe on zicu tufazicin juve.",
+    "bio": "Baw ife re vavnoz sa fobaj gijmajbum teslej ri vu limu epoaw soshufi. Bov ogofat dadgecu kize vagesu wimiwso cin nuf jug mitejka wejvuwig lebejpo dijkuw. Hukkiphaj moho bucluhzu luikhe afa zu bu hokji abunouz alimacro pascurut bekezkad vik guvapu gicow enbu hu fukjop."
+  },
+  "apiKey": "9cb4cd71c811f508859d236229c50212b859a3e5f6ad65edfacac334de0b6453",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
