@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Crawford",
+  "age": 21,
+  "address": {
+    "street": "Eces Path",
+    "city": "Cifcesko",
+    "state": "AL",
+    "zip": "23431"
+  },
+  "contact": {
+    "phone": "(785) 594-3331",
+    "servicePhone": "800217679"
+  },
+  "birthday": "1969-12-02T22:55:22.290Z",
+  "ip": "20.12.159.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ragtemlem vanolriv ewak etezaifa hozoh jol be ragegsic lesep fo dosiji ni wegwucte za. Dab caletjin fifuno ohahi ape rowhevude tezitdu resdioda hegwiwpeg lu ehdo rilfi ase za buitsa zac. Suaf niwketir jogodud gulwivum tetu fapsefa binegtaj to mipohsa li zi dimo vumisjil tenaw kakdij nudwirlur suwul dowagudo. Naiso sarahag lotza gijwu evlufji pup jafot wapacut umohecur wez le ja julojos ra. Cidkizosu teszuz mu on poaslo ad nala mudme foha mugizsod febaz gi vofwiiw dac umwafah wosmivu.",
+    "bio": "Ek tafi ca irazenlap teazoco hiegud votagos zo cices rozzoz mapzoc ikgedaf. Efel ni punow cud egehamzig jamri ujaj pe joszene kadonca utolu wa jeuzemar mowob. Wizoro tuk he wis me umi fazojbiv jajti aseurevu zeedi inesegobe kin ban. Zuuc fo vavot ivjo it lopep feni nefigeuga ku vuca ahgo sego. Tuv icuruw vagiduzi ji wos vofiel gir get ibuciav codnol fulu ive pebnubfa zarasi wagheake te bapcipvon. Na ronoh lojgozi gal ic bajesmu cufujju vegengot pej ta sigoh wuhilel ponhifok vuho tergod coucek."
+  },
+  "apiKey": "c189a706135a72da62dc6bf3538a4e0a774f9e5cb174720496dfd129abb591cd",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
