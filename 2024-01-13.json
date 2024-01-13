@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Mullins",
+  "age": 45,
+  "address": {
+    "street": "Gonji Trail",
+    "city": "Defuhit",
+    "state": "MD",
+    "zip": "76560"
+  },
+  "contact": {
+    "phone": "(337) 555-3177",
+    "servicePhone": "800284645"
+  },
+  "birthday": "1987-12-23T16:36:14.220Z",
+  "ip": "39.183.31.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu rob ufe mefote be rekinbo up av ukvaces luj fap ohukivis zevowuh. Bo zabbudne lasoh luwnoz kul vejlonot el pojwe zewofra lo ufeuhu diigiloc jafomom saoma. Ne ob febsaj cub kufloma de ohcimet ozjow buljili pus we zijrar pa makud. Ibeopav hozlellev jawkah dukivu hiis lo eza lortora haafgem ajofedu dag ricukzuz faje zebak.",
+    "bio": "Kotpi meh cotu ziut ku dipilnu jov civi igu wu raliwlo obewu podo sipnolew. Sojzofseg figulo fovu diwtum pevire wi usegos mu goljow avru tufuctec bijuc me. Us fuarij caj vu ihzuj sehip tamre obele le fege geme pugovisiw duif penri bi elesi. Awcoen watorvuk ufugadok abe ewuditje awpuem iw jordijub rawow ruswov zor bivepop."
+  },
+  "apiKey": "0ec9466b934376c1e60d5e17cda7fbe4ce04e4dae587999e77294af5c5eaa43b",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
