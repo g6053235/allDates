@@ -1,0 +1,26 @@
+{
+  "name": "Susan Brown",
+  "age": 22,
+  "address": {
+    "street": "Kojuc Loop",
+    "city": "Mocigro",
+    "state": "NY",
+    "zip": "34518"
+  },
+  "contact": {
+    "phone": "(714) 970-8989",
+    "servicePhone": "800438594"
+  },
+  "birthday": "1963-04-24T05:45:10.254Z",
+  "ip": "9.146.58.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Sualo fo gu fih jofuzdo vir gavwawbug osamafer puevuz vijroev su wiidi micanri fil veez dosavzah. Fec ve fejfemo denipuhi huveve ha ec mon bunosu berdalom osihe lawzo. Kun sijevfa cigudeecu otu ab on kujid bufkuvvu akufe mabo golomjap debej tow ikpi ihofacu izosez. Fulop vah josusada na iru ufak nartir bakoh ta zovvih utu sirhe juedapo.",
+    "bio": "Ahinu vibki ocubafi rorjode sose tojiwub buc ge ufhoh tonwavji larmivel cev im ero funekug. Lew divtiwil nup teduv odeuce dopna fel zatecahi epekas iji bunki ema di su. Cecapike tac huovocit asa ni sekbemmo lov socede ag budaj lonsipo sujbices. Defeb pas mus wafamdur ic fejlutka olenevi wuiguke igupaip pipfatfi led ici rapap."
+  },
+  "apiKey": "f2f92607be3ef8d911cef2a15c3a89f7c059a0a908e97da5439941a0b3b54c60",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
