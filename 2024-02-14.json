@@ -1,0 +1,26 @@
+{
+  "name": "Christian McCoy",
+  "age": 19,
+  "address": {
+    "street": "Jikil View",
+    "city": "Erabawuk",
+    "state": "ID",
+    "zip": "25959"
+  },
+  "contact": {
+    "phone": "(854) 847-2127",
+    "servicePhone": "800126398"
+  },
+  "birthday": "1979-07-28T19:11:15.825Z",
+  "ip": "178.47.70.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Piujag va owwo og pinow nim mehzeuz ijozu mebkakbu kov lejedi getuzuevu. Zinilif fu piczebzu viapsab wis be cuthi li otcaohu umofidlum pagkukugi afauca mog kuldonu pud jo. Subi tunahepug ajgup bih nib od hekuwin loal fezicwol viz sen tucifri joewo ontu. Gehso othot febsahrir ojofirus li helok geputev bawu banvahpe libnovus josacisi ulisuzod wehbuvig vubi lopzu neknobfa hatzo. Un wa mazap emacudko ebe napa ifi jewedjas ni od pa orjad fu. Waz ifihid orebti tiz opino kowlij maewe duizozuf sufu tikeze iw ajzo lo livduis raajfe veri bew. Nogiju wor miweare neji kimu worwit rumcuwa amja evdefu dej colbiti to je.",
+    "bio": "It negik viibkut co puswajfu puci kadle be wobek ma fi gem oduarruk etfo peidmon ocefuna enu regpabca. Newkaw soz fisip if hopadeb ipnap luw cewdug na roterudot duharfet dajwi zeboma ih jepara ecuc nizor vibovwer. Kaelpa garikda nezi ed lodhofak lat tedgi uc wofbapje tetefih hun lo jorgemih kasem jewe."
+  },
+  "apiKey": "75e679bc75f5045c56d15b1c9008db69d03ab78aa357e63a6190baef06c545d5",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
