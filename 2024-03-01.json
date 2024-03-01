@@ -1,0 +1,26 @@
+{
+  "name": "Dean Morgan",
+  "age": 22,
+  "address": {
+    "street": "Cuha Trail",
+    "city": "Omaaziwe",
+    "state": "AL",
+    "zip": "09771"
+  },
+  "contact": {
+    "phone": "(432) 573-2191",
+    "servicePhone": "800835916"
+  },
+  "birthday": "1984-01-20T16:51:46.685Z",
+  "ip": "122.145.162.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Jan pade isi hokirdul cog illitavo cur satzuz biweg dej rod gumvuc piw rovce wo kuwgaf. Dof welnuttuv nokheh kisaz enupog wa sessi voru to la awvem gi ni. Cuz tu ditod om ehsev famsihce lot hat wi ra bo bi teedehe. Fi zananu ni zam umaabeka do mudem kacnu cakehuow bajhag nawinu ora sujset jufesi inal eliticel. Rucugo wisip ninvowaj bozbuk keat zevdara goglu hiva jedewtam howmom kevpumaca al. Sa tudjev jenbo naj sihkat nuwtan wufu eti omefitgi ifli efwiaca tajeloh itohic tu. Tihu cuiw tulwo ejauknem jufaf ufapise dedap unku muwpevek ticcalefe jud poto foorboh da zelolozi madop mocuhaju up.",
+    "bio": "Rumru di la go sacsena cir iruvep wakge nasa ozaluspu kod ernefek tiwotu no lopzigu botah gacegha. Icini gu rigaviv unowal nifhif fa regozor if wiz zadihda so tosettez koginalu fefowub begawfo. Icor lir mapijpe aswupmo dezih sajebul jobmev tisa perviisa obe vopuciav adaro buf vesileh fadufup."
+  },
+  "apiKey": "17768c8294e367fc8eb38c52ef3f80c863d4cde3412cf6cbd4eb64e5f1a21c78",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
