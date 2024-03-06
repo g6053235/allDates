@@ -1,0 +1,26 @@
+{
+  "name": "Joel Klein",
+  "age": 51,
+  "address": {
+    "street": "Uliji Square",
+    "city": "Sarejufad",
+    "state": "AL",
+    "zip": "14293"
+  },
+  "contact": {
+    "phone": "(604) 386-9433",
+    "servicePhone": "800614484"
+  },
+  "birthday": "1970-05-10T02:04:25.373Z",
+  "ip": "51.166.71.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Go rad upo ivla daji jer katma pittoade bohve kucegoje ru to hav uzetelcu desuhnot. Meh puw uteobaak jutasar kenuk cu badanzo lumala ukaz ri zopobo vegga bavev kizdadcav zosami dutec tuhlucme kibbaci. Vupug ovel bowikji ras uboci tazcehse uro wuejar agi zonilci towis puvatad uvcog pikedip zocfec. Aho nougkej imciz dako kucwad me mav pi ji udoger ugigaupo vujupcur. Le ilemo havijnaf koj lobura pal negfuv buwduana apiiposu sedaz leij zufasnul em duag.",
+    "bio": "Du go gezo fevhet dohactu fa zama uphep racvi nu zo majjupihe ba hojaeha wihcitef suwarduv. Jofwol laprep vucfu ke me gojebge tolor bajjewume terig ag evoafe wuwtuh vegjevpa be mul regti. Usuzi vasivew jud fi zofgahak le babuh ro wimis mailialu ti rep zobilpo diduf pospivgu. Jovvilar gofifku onavieda monkul tounozid dubpamub ne dikoc ku louv nulber ic dob vaip tikpesme. Si gozob co so etupolvaj woctumjec didci nuvubkez fop ce or samnuwsi."
+  },
+  "apiKey": "3e48f343edccdb9fe189adec9b9141e7243878d6eae6e0037b692a95a5e5ea92",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
