@@ -1,0 +1,26 @@
+{
+  "name": "Sam Harris",
+  "age": 57,
+  "address": {
+    "street": "Dobu Court",
+    "city": "Fumium",
+    "state": "PA",
+    "zip": "82972"
+  },
+  "contact": {
+    "phone": "(748) 854-5512",
+    "servicePhone": "800131416"
+  },
+  "birthday": "2004-02-16T16:54:34.385Z",
+  "ip": "34.7.188.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Wes de zez hifdiru as reik sog kisfigwen pa merduw dif wu kumjap gafmudha ruz ot foguli. Sar vup ca ziv an miejuho rulabeg ukfi du rah ida wofsoec. Olzo ka wem sihuc lo gavad vuowo keccu socawew omfe metrovizu obo owfa sajwoklep kab kihwoh.",
+    "bio": "Pup zor bekhe bom nurfu wu kuwir fod si pased nordotiv ga sob. Rahifi tihtasa biv ulu fol sicmijtam aleguz ja mumawisos hu tozuj enaducop rowovma ebfozpo onuizi edomi pa. Fijibos sucfe uhuifebar nategul succe uca izosuf sonji famho kifbon suhihake usabav."
+  },
+  "apiKey": "2f688596ece1973cd42fa0f72d5c88cae503517dd5d2832c5780e2dd92aa8356",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
