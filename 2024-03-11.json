@@ -1,0 +1,26 @@
+{
+  "name": "Leo Price",
+  "age": 54,
+  "address": {
+    "street": "Fenno Glen",
+    "city": "Simigiir",
+    "state": "MA",
+    "zip": "07721"
+  },
+  "contact": {
+    "phone": "(758) 369-6334",
+    "servicePhone": "800884325"
+  },
+  "birthday": "1964-01-27T02:39:15.039Z",
+  "ip": "52.124.189.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Decrut su tih kef zezcigub vififuuk lotiun pamjapmav bew cumsabduv redo zem za dobitud cede eri dolaog. Po zatjebi big vecwa ega ukufamop obuzor bazoaj onec noakalu mafso ecivew viwas. Viplusla vusovo sul zojserik soljur dedpini za so ponpon hi sedis ozdej efozufjub ivi darwazoj vokij rakobi joh.",
+    "bio": "Dusbirnef gusuzwot mola duzhep nirocuci fiwive ewimo dizi kuked fu netukaun bimsakug ew. Horos vo zu kifejuw duzu gubfoz ma gevuwog ubwuhju oshusij ola ja fentek miseka gicmobos we. Ozonudac korha dusiw vu leguwecu pikep bi lemhake roowaibo cazgi fovik row miteki. Dil azaegun toveko metduato buzvegsev la dacpef opece ehuuji mudwa det huri nagrumli fet ojtu pedikoh ke. Wu samez soug riwjo cur sal gabahi mi ot lonazmel jaz ki zomsutepo piw. Egviz uvuhevo ho ru ciw loffad zak enuvevig do ac umju ecupod wuzfaneri sa fuvir icoom vafwe."
+  },
+  "apiKey": "897320b6952e70a1e53bdaf612268b6b017055b0b91dc6f4a8505def2ece87c8",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
