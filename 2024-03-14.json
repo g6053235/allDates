@@ -1,0 +1,26 @@
+{
+  "name": "Danny Burke",
+  "age": 65,
+  "address": {
+    "street": "Ogepa Path",
+    "city": "Gezsatre",
+    "state": "DE",
+    "zip": "30917"
+  },
+  "contact": {
+    "phone": "(780) 669-6212",
+    "servicePhone": "800666681"
+  },
+  "birthday": "2006-07-23T00:22:54.282Z",
+  "ip": "83.228.94.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Dagnujlo ofobew ha pomier ciuke zewliluh bual bus buuphi sirilza ga hod. Johzojaw fag kap omlera vosze mikaib ohavac zecu momibi wiiri zum ivogidib tosgo hafhasja ogajoub. Eda befa icer vo mifir cogiv nilciben lova hanju dufico vukad tienpo vipo hotazaicu ic hezukivus arezipo raici.",
+    "bio": "Fufninme tazuna wosis nonjijfi lok socwimfic bas zimez rami ugatuson adoiso oja uruluz kim wajunpu. Cahuf bezfusja mebvumaw ha fizgi haplilo te fakmakci vugret mevadep owuca azu cenoblac kiw vevsin rit cozpo nodibbo. Pec gosibda ode bofhebpa cad vu ko toke ugane rabizcu sijzijsov utmowime fibatida dij ed. Koju idsab orilem eriril jita juraw bazul luhep ve bepijmoj ma faulu abebu."
+  },
+  "apiKey": "8866ee73ebd1383fb23c63dad0bc7d5dda97b8861452ef6e28a8ac3a18688d7c",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
